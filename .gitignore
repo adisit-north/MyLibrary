@@ -16,3 +16,7 @@
 proguard-project.txt
 
 project.properties
+
+Badge_IOS_Style/bin/
+
+Badge_IOS_Style/gen/
